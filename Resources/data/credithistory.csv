@@ -1,4 +1,4 @@
-risk,collateral,income,debt,credithistory
+risk,collateral,income,debt,credithistory,
 high,none,$0to$15K,high,bad
 high,none,$15Kto$35K,high,unknown
 moderate,none,$15Kto$35K,low,unknown
